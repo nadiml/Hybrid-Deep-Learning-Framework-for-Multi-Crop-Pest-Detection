@@ -21,7 +21,7 @@ Authors: Nadim Ahmed, Md. Ashraful Babu, Zarif Wasif Bhuiyan, Md. Mortuza Ahmmed
 
 ## 🖼️ MCPNet Architecture
 <p align="center">
-  <img src="Figure.png" alt="Representative images of various pests" width="600"/>
+  <img src="Figure.png" alt="Representative images of various pests in dataset" width="600"/>
 </p>
 
 ---
