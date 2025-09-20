@@ -21,7 +21,7 @@ Authors: Nadim Ahmed, Md. Ashraful Babu, Zarif Wasif Bhuiyan, Md. Mortuza Ahmmed
 
 ## 🖼️ MCPNet Architecture
 <p align="center">
-  <img src="docs/figures/Figure.png" alt="MCPNet Architecture" width="600"/>
+  <img src="Figure.png" alt="MCPNet Architecture" width="600"/>
 </p>
 
 ---
