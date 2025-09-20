@@ -25,5 +25,3 @@ Authors: Nadim Ahmed, Md. Ashraful Babu, Zarif Wasif Bhuiyan, Md. Mortuza Ahmmed
 </p>
 
 ---
-
-## 📂 Repository Contents
