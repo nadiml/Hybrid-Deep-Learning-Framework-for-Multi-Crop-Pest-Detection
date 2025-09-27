@@ -26,7 +26,7 @@ Authors: Nadim Ahmed, Md. Ashraful Babu, Zarif Wasif Bhuiyan, Md. Mortuza Ahmmed
 
 ## 🖼️ Model Architecture of MCPNet
 <p align="center">
-  <img src="Model Architecture.png" alt="Representative images of various pests in dataset" width="600"/>
+  <img src="Model Architecture.png" alt="Representative images of various pests in dataset" width="800"/>
 </p>
 
 ---
